@@ -59,13 +59,17 @@ The migration to Systeme.io came later, as the brand's focus shifted toward funn
 
 ## Screenshots
 
-_Screenshots from the WordPress build phase will be added here._
+### Homepage hero
+![Homepage with hero](01-hero.png)
 
-<!--
-![Homepage](screenshots/01-homepage.png)
-![Product page](screenshots/02-product.png)
-![Checkout flow](screenshots/03-checkout.png)
--->
+### Product categories
+![Product categories](02-categories.png)
+
+### Featured products
+![Featured products](03-featured-products.png)
+
+### Why choose Macfedowears
+![Why choose Macfedowears](04-why-macfedowears.png)
 
 ## What I Learned
 
